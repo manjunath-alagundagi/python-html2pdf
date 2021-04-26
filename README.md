@@ -8,6 +8,7 @@ https://yanwei-liu.medium.com/how-to-convert-local-html-files-into-pdf-using-pyt
 
 Prerequisite 
 1. Install wkhtmltopdf https://pypi.org/project/wkhtmltopdf/
+
 brew install wkhtmltopdf
 
 pip install pdfkit
